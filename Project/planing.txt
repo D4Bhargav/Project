@@ -1,0 +1,66 @@
+1)-Index
+
+    1.1 login Event Member
+        1.1.1 Show button of mack a event 
+            1.1.1.1 Thay have a fill form in form thay shoud have enter a 
+                event name 
+                enter event ID(ID must be different)
+                event organizing Facultie name 
+                event Member name 
+                event location
+                event date and time (start and and)
+
+        1.1.2 Show button of current event
+            show list of up-coming event 
+
+        1.1.3 Show button of past event
+            show list of complit event
+            show a rating result of event 
+
+    1.2 login For Faculties Member
+        1.2.1 Show button of mack a enter
+            1.2.1.1 Thay have a fill form in form thay shoud have enter a 
+                event name 
+                enter event ID(ID must be different)
+                event organizing Facultie name 
+                event Member name 
+                event location
+                event date and time (start and and)
+
+        1.2.2 Show button of remove event
+            1.2.1.1 Thay have enter a name of event and enter id
+            1.2.1.2 Enter A reasion for Remove a event
+
+        1.2.3 Add a Event Coordinator Member
+            Enter a event Coordinator name
+            Enter a event Coordinator Er No and Gr-No
+            Enter a event Coordinator Sem
+            Enter a event Coordinator Phone Number
+
+        1.2.4 Remove a Event Coordinator Member
+            Enter a event Coordinator name
+            Enter a event Coordinator Er No and Gr-No
+            Enter A reasion for Remove a Coordinator
+
+    1.3 login For Students 
+        1.3.1 Sign-in 
+            Enter Name
+            Enter Gr-Number
+            Enter gmail id(dont use a student email-id)
+            Enter password
+
+        1.3.2 login
+            Enter Gr-Number
+            Enter gmail id(dont use a student email-id)
+            Enter password
+
+        1.3.3 Chack up-coming events
+            1.3.3.1 Register for up-coming event
+                Enter name
+                Enter Sem
+                Enter Gr-Number
+                Enter Phone
+                1.3.1.1.1 After complete event thay have mack a review of event
+
+        1.3.4 Chack past event 
+            Show past event and review of event
